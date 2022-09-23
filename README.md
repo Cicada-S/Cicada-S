@@ -23,5 +23,4 @@
 
 ## Github Activity
 
-![Cicada-S's github stats](https://github-readme-stats.vercel.app/api?username=Cicada-S&show_icons=true&theme=onedark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cicada-S&layout=compact&langs_count=6&theme=onedark)
+![Cicada-S's github stats](https://github-readme-stats.vercel.app/api?username=Cicada-S&show_icons=true&theme=onedark)![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cicada-S&layout=compact&langs_count=6&theme=onedark)
