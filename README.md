@@ -22,4 +22,4 @@
 
 
 ## Github Activity
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=Cicada-S&show_icons=true&theme=onedark"/><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cicada-S&layout=compact&langs_count=6&theme=onedark"/>
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=Cicada-S&show_icons=true&theme=onedark"/><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cicada-S&layout=compact&langs_count=6&theme=onedark"/>
