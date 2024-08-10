@@ -10,7 +10,7 @@
 
 ## Technology stack
 
-<a href="https://v3.cn.vuejs.org"><code><img height="20" src="./images/vue.svg"></code></a>
+<a href="https://v3.cn.vuejs.org"><code><img height="20" src="./images/Vue.svg"></code></a>
 <a href="https://uniapp.dcloud.net.cn"><code><img height="20" src="./images/uniapp.svg"></code></a>
 <a href="https://developers.weixin.qq.com/miniprogram/dev/framework/"><code><img height="20" src="./images/xcx.svg"></code></a>
 <a href="https://www.tslang.cn"><code><img height="20" src="./images/typescript.svg"></code></a>
@@ -23,7 +23,7 @@
 <a href="https://cn.vitejs.dev"><code><img height="20" src="./images/vite.png"></code></a>
 <a href="https://pinia.vuejs.org/zh"><code><img height="20" src="./images/pinia.svg"></code></a>
 <a href="http://lesscss.cn"><code><img height="20" src="./images/less.svg"></code></a>
-<a href="https://sass-lang.com"><code><img height="20" src="./images/sass.svg"></code></a>
+<a href="https://sass-lang.com"><code><img height="20" src="./images/Sass.svg"></code></a>
 
 ## CodeTime
 
