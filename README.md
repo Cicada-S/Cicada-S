@@ -27,7 +27,9 @@
 
 ## CodeTime
 
-<img height="50px" href="https://codetime.dev" alt="Custom badge" src="https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D5487%26project%3D%26in%3D31536000000">
+<img height="25px" href="https://codetime.dev" alt="Custom badge" src="https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D5487%26project%3D%26in%3D31536000000">
+<img height="25px" href="https://codetime.dev" alt="CodeTime Badge" src="https://img.shields.io/endpoint?style=flat&color=007ec6&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D5487%26project%3D%26in=604800000">
+<img height="25px" href="https://codetime.dev" alt="CodeTime Badge" src="https://img.shields.io/endpoint?style=flat&color=007ec6&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D5487%26project%3D%26in=86400000">
 
 ## Github Activity
 
