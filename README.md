@@ -1,4 +1,4 @@
-<img align="right" src="https://count.getloli.com/get/@:Cicada-S?theme=rule34">
+<img height="88px" align="right" src="https://count.getloli.com/get/@:Cicada-S?theme=rule34">
 
 ## Cicada-S
 
